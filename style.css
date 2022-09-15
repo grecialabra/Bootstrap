@@ -1,0 +1,9 @@
+.jumbotron {
+    background-image: url("thumbnail_IMG_2724.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px
+}
+h2{
+    text-align: center;
+}
